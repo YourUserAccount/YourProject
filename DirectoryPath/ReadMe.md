@@ -1,3 +1,6 @@
+This was created in response to:
+https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+
 ## Display images from repo using:
 
 ### prepend domain: https://raw.githubusercontent.com/ or https://cdn.rawgit.com/
