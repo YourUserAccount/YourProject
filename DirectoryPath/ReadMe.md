@@ -44,3 +44,8 @@ Working example code displayed below after used:
 
 <img src="https://cdn.rawgit.com/YourUserAccount/YourProject/master/DirectoryPath/svgdemo1.svg" />
 ```
+
+
+Thanks:
+   - https://stackoverflow.com/a/48723190/1815624
+   - https://github.com/potherca-blog/StackOverflow/edit/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/readme.md
