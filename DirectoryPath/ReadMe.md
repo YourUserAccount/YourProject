@@ -5,12 +5,13 @@
 ### use `<img />` tag
 
 #### Eample url works for svg, png, and jpg using:
-     - **Domain**: `raw.githubusercontent.com/`
-     - **UserName**: `YourUserAccount/`
-     - **Repo**: `YourProject/`
-     - **Branch**: `YourBranch/`
-     - **Path**: `DirectoryPath/`
-     - **Filename**: `example.png`
+
+- **Domain**: `raw.githubusercontent.com/`
+- **UserName**: `YourUserAccount/`
+- **Repo**: `YourProject/`
+- **Branch**: `YourBranch/`
+- **Path**: `DirectoryPath/`
+- **Filename**: `example.png`
      
 Works for SVG, PNG, and JPEG
 
