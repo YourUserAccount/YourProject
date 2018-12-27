@@ -21,11 +21,13 @@ Works for SVG, PNG, and JPEG
 Working example code displayed below after used:
 
 **raw.githubusercontent.com**:
+
 <img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png?sanitize=true&raw=true" />
 
 <img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/svgdemo1.svg?sanitize=true&raw=true" />
 
 **https://cdn.rawgit.com**:
+
 <img src="https://cdn.rawgit.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png" />
 
 <img src="https://cdn.rawgit.com/YourUserAccount/YourProject/master/DirectoryPath/svgdemo1.svg" />
