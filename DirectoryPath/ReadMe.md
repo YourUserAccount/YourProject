@@ -7,7 +7,7 @@ https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 ### append flag: **`?sanitize=true&raw=true`**
 ### use `<img />` tag
 
-#### Eample url works for svg, png, and jpg using:
+#### Example url works for svg, png, and jpg using:
 
 - **Domain**: `raw.githubusercontent.com/`
 - **UserName**: `YourUserAccount/`
